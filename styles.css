@@ -1,0 +1,31 @@
+.background-pink {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/c/cb/Hellyer_Gorge%2C_Tasmania.jpg);
+  }
+  h1{
+    font-size: 36px;
+    color: #e3b58c;
+    text-align: center;
+  }
+p{
+    font-style: italic;
+    font-style: bold;
+    font-size: 24;
+    text-align: center;
+}
+a{
+
+}
+.my-button {
+    border-color: #e3b58c;
+    background-color: #760000;  
+    border-radius:10px;
+}
+.my-button:hover{
+background-color: #000000;
+transform: 1s;
+
+}
+
+
+
+  
